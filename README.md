@@ -1,2 +1,2 @@
-# python-cookbook
-all python functions i used in my projects
+# cookbook
+allmost all functions i used in my projects
