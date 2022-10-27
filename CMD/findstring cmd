@@ -1,0 +1,8 @@
+systeminfo | findstr /b "Product ID:"
+
+#use find string to only get one result. in this case only Product ID
+# "systeminfo" -> command to get computer information.
+# "findstr" -> find specific type of text
+# "/b" -> only return exact matching data in this case only the value of "Product ID"
+# "Product ID:" -> read the value of Product ID in the command "systeminfo".
+# response from cmd -> 0849038-30-714xxx
